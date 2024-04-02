@@ -1,27 +1,16 @@
 p{
-    color: teal;
+    color: lightslategray ;
 }
 .qualities{
-    background-color: darkgrey;
+    background-color:whitesmoke ;
     text-align: center;
-    width: 50%;
 }
-.quality-one{
-    background-color: darkgrey;
-    text-align: center;
-    width: 100%;
-}.quality-two{
-    background-color: darkgrey;
-    text-align: center;
-    width: 100%;
+.quality{
+    display: inline-block;
+    width: 25%;
+    background-color: whitesmoke; 
+    height: fit-content;
 }
-.quality-three{
-    background-color: darkgrey;
-    text-align: center;
-    width: 100%;
-}
-.quality-four{
-    background-color: darkgrey;
-    text-align: center;
-    width: 100%;
+i{
+ color:peachpuff;
 }
